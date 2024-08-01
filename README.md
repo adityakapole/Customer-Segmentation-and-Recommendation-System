@@ -13,7 +13,7 @@ The objectives of the project are as follows:
 * **Data Cleaning & Transformation**: Undertake data cleaning by handling missing values, duplicates, and outliers to prepare the dataset for effective clustering.
 * **Feature Engineering**: Develop new features based on the transactional data to create a customer-centric dataset, setting the stage for customer segmentation.
 * **Data Preprocessing**: Conduct feature scaling and dimensionality reduction to streamline data, enhancing the efficiency of the clustering process.
-* **Customer Segmentation using K-Means Clustering**: Segment customers into distinct groups using K-means, facilitating targeted marketing and personalized strategies.
+* **Customer Segmentation using various Clustering Algorithms**: Segment customers into distinct groups using K-means, DBSCAN and hierarchical clustering algorithms facilitating targeted marketing and personalized strategies.
 * **Cluster Analysis & Evaluation**: Analyze and profile each cluster to develop targeted marketing strategies and assess the quality of the clusters formed.
 * **Recommendation System**: Develop a system to recommend best-selling products to customers within the same cluster who haven't purchased those products, aiming to enhance sales and marketing effectiveness.
 
@@ -41,8 +41,3 @@ The dataset comprises various metrics related to online retail transactions. The
 2. **Open the Notebook**: Access the `Retail_Customer_Segmentation_Recommendation_System.ipynb` in Jupyter.
 3. **Install Dependencies**: Ensure all necessary Python libraries are installed for seamless execution.
 4. **Execution**: Run all cells in the notebook to witness the results and insights.
-
-## 🔗 Additional Resources
-- 🌐 **Kaggle Notebook**: If you're keen on a Kaggle environment, delve into the notebook [here](https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system).
-- 🌐 **Dataset Source**: Access the original dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
-- 🤝 **Connect on LinkedIn**: Have queries or looking for collaborations? Feel free to connect on [LinkedIn](https://linkedin.com/in/farzad-nekouei-7535aa53/).
